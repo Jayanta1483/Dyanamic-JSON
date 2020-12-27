@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "firstname": "Jayanta",
+        "lastname": "Sarkar",
+        "email": "xyz@abc.com",
+        "city": "Nimta"
+    },
+    {
+        "id": "2",
+        "firstname": "Jhony",
+        "lastname": "das",
+        "email": "jhony@abc.com",
+        "city": "Nimta"
+    },
+    {
+        "id": "3",
+        "firstname": "suvo",
+        "lastname": "das",
+        "email": "suvo@abc.com",
+        "city": "Nimta"
+    },
+    {
+        "id": "4",
+        "firstname": "randeep",
+        "lastname": "hooda",
+        "email": "randeep@abc.com",
+        "city": "mumbai"
+    }
+]
